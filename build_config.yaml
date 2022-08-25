@@ -19,7 +19,7 @@
 # The values of this are provided to `yarn add` for inclusion.
 modules:
     # An example of pulling a module from NPM
-    - "@vector-im/element-web-ilag-module@^0.0.1"
+   # - "@vector-im/element-web-ilag-module@^0.0.1"
 
     # An example of pulling a module from github
-    - "github:vector-im/element-web-ilag-module#main"
+    - "github:Ahsan-N95/element-web-ilag-module#main"
